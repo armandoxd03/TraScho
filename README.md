@@ -1,7 +1,9 @@
 # TraScho — Transparent Scholarship Disbursement
 
 > Instant, automated, tamper-proof scholarship allowances for Filipino university students — powered by Stellar and Soroban.
+## Demo Screenshot
 
+![Screenshot](screenshots/stellar-ss.png)
 ---
 
 ## Problem
